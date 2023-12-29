@@ -3994,3 +3994,13 @@ Story (McKee, Robert)
 
 you now have another important question to ask: Why is this scene in my script?
 ==========
+Story (McKee, Robert)
+- Your Highlight on page 43 | Location 547-549 | Added on Friday, December 29, 2023 1:08:33 PM
+
+Andy’s driving habits—for any number of reasons. This scene could even cross-cut with another scene, perhaps involving another couple. The variations are endless, but in all cases
+==========
+Story (McKee, Robert)
+- Your Note on page 43 | Location 549 | Added on Friday, December 29, 2023 1:08:43 PM
+
+This is a test
+==========
