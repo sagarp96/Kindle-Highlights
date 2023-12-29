@@ -4004,3 +4004,8 @@ Story (McKee, Robert)
 
 This is a test
 ==========
+Story (McKee, Robert)
+- Your Highlight on page 43 | Location 550-552 | Added on Friday, December 29, 2023 1:16:31 PM
+
+Inside the scene is the smallest element of structure, the Beat. (Not to be confused with [beat], an indication within a column of dialogue meaning “short pause”.)
+==========
